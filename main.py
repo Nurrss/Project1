@@ -1,2 +1,2 @@
-print("hello Jihc")
+print("hello 2f-2")
 
